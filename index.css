@@ -1,0 +1,36 @@
+h1 {
+  color: #000000;
+  background-color: rgb(255, 255, 0);
+  font-size:48px; /*Have to make text bigger than 12px */
+  font-weight: 900;
+  padding: 50px;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    text-transform:capitalize;
+    text-align: end;
+    text-decoration: underline;
+    letter-spacing: 12px;
+     background-color: blue;
+}
+
+p{
+    border:solid 100px pink;
+    display:inline
+}
+
+
+.text-1{
+    font-size: 20px;
+}
+
+.text-2{
+    font-size: 60px;
+}
+
+p.text-1{
+    color:red;
+    display: inline;
+}
+
